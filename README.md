@@ -2,7 +2,7 @@
 
 - [Demo Project](https://mohananoruztabar.github.io/box-shadow---trick/index1-css.html)
 
-- ![Image](https://github.com/user-attachments/assets/c2e616c8-c4da-46c4-bacb-d25e6b30c13b)
+- ![Image](https://github.com/user-attachments/assets/46533f99-a754-4da0-80a9-93936aa5a894)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
